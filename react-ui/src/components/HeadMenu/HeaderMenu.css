@@ -1,0 +1,10 @@
+.ui.secondary.menu .item {
+    padding: 0px!important;
+}
+.ui.menu .item .circular.icon.flag-mine{
+    padding: 0px 0px!important;
+    overflow: hidden;
+}
+.ui.menu .item .circular.icon.flag-mine img{
+    margin: -17px -5px;
+}
